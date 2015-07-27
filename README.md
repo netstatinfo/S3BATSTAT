@@ -1,2 +1,4 @@
 # S3BATSTAT
-Battery Status for Surface Pen
+Battery Status/Notification for Surface Pen
+All Devs are welcome to contribute to this project.
+Lets start coding.
